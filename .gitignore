@@ -1,0 +1,8 @@
+Thumbs.db
+.DS_Store
+._.*
+*.swp
+*~
+gapps.config.json
+.gapps
+node_modules
